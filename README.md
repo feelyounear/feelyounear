@@ -1,16 +1,28 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**feelyounear/feelyounear** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Arre999
 
-Here are some ideas to get you started:
+**network security · reverse engineering · low-level systems**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=00ff41)
+![C++](https://img.shields.io/badge/C++-0d1117?style=for-the-badge&logo=c%2B%2B&logoColor=00ff41)
+![C#](https://img.shields.io/badge/C%23-0d1117?style=for-the-badge&logo=csharp&logoColor=00ff41)
+![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=00ff41)
+![Linux](https://img.shields.io/badge/Linux-0d1117?style=for-the-badge&logo=linux&logoColor=00ff41)
+
+---
+
+```
+focus     :: network security · reverse engineering · low-level systems
+interests :: red teaming · binary analysis · exploit dev
+os        :: Windows + Linux
+status    :: building tools nobody asked for
+```
+
+---
+
+*// the quieter you become, the more you can hear*
+
+</div>
