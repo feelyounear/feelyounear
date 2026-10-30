@@ -14,12 +14,7 @@
 
 ---
 
-```
-focus     :: network security · reverse engineering · low-level systems
-interests :: red teaming · binary analysis · exploit dev
-os        :: Windows + Linux
-status    :: building tools nobody asked for
-```
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=3000&pause=500&color=00FF41&background=0D111700&center=true&width=500&lines=network+security+%C2%B7+reverse+engineering;red+teaming+%C2%B7+binary+analysis;building+tools+nobody+asked+for" alt="Typing SVG" />
 
 ---
 
