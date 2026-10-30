@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=32&duration=4000&pause=800&color=E6EDF3&center=true&width=500&lines=Arre999" alt="Arre999" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=32&duration=2000&pause=5000&color=E6EDF3&center=true&vCenter=true&width=500&lines=Arre999" alt="Arre999" />
 
 **network security · reverse engineering · low-level systems**
 
@@ -14,7 +14,7 @@
 
 ---
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=99999&pause=99999&color=00FF41&background=0D111700&center=true&width=500&lines=building+tools+nobody+asked+for" alt="status" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=1500&pause=3000&color=00FF41&center=true&vCenter=true&width=500&lines=building+tools+nobody+asked+for" alt="status" />
 
 ---
 
